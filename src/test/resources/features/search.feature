@@ -1,4 +1,4 @@
-Feature: Acceptance testing to validate Search Cars Page is working.
+Feature: Search Cars
   In order to validate that 
   the Search Cars page is working
   Doing the Acceptance Testing
